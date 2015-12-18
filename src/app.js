@@ -1,6 +1,7 @@
 var UI = require('ui');
 
-var ws = new WebSocket('ws://fabien.benetou.fr:8889');    // Replace with IP of computer running server
+var ws = new WebSocket('ws://fabien.benetou.fr:8889');
+// Replace with IP of computer running server
 
 var connected = false;
 

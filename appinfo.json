@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "fabien-services@benetou.fr",
-    "longName": "NodeJS interaction",
+    "longName": "webVR Pebble controller",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -32,7 +32,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "NodeJS interaction",
+    "shortName": "webVR Pebble controller",
     "targetPlatforms": [
         "aplite",
         "basalt"
